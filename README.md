@@ -1,5 +1,7 @@
 # www4mail
-Get web pages using javax.mail library
+Download web pages and send by email
+
+Uses <b>javax.mail</b> and <b>jsoup</b> library
 
 <b>Instructions:</b>
 
